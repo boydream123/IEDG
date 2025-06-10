@@ -1,7 +1,9 @@
 
 # Information Entropy for LLM-generated Text Detection
 
-This project provides a Python implementation for text featurization using **Information Entropy (IED)** and **Information Entropy Gain (IEGD)**, coupled with a simple LSTM-based classifier for tasks like distinguishing between human-generated and LLM-generated text. The methods are inspired by information-theoretic approaches to quantify word importance and text characteristics.
+This project provides a Python implementation for text featurization using **Information Entropy (IED)** and **Information Entropy Gain (IEGD)**, coupled with a simple classifier for tasks like distinguishing between human-generated and LLM-generated text. The methods are inspired by information-theoretic approaches to quantify word importance and text characteristics.
+![Framework.png](Framework.png)
+
 
 ---
 
